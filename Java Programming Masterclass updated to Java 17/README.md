@@ -27,3 +27,16 @@ We talked about casting, the importance of casting and the cause why we need to 
 
 It is challenged to us and We solved it 
 --slides
+
+## Day4
+
+it is explaned the Float and Double Primitives in Java (casting, precise, range, suffixes, memory and more)
+--slides
+
+We talked about floating precision and a Challange.
+--slides
+
+We talked about The char and boolean Primitive Data Types (includes unicode)
+--slides
+
+We reviewed the Primitive Types in Java and learned String (that is not Primitive Types but class). We talkod about string and the features of string (immutable etc.)
