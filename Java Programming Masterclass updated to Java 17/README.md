@@ -40,3 +40,9 @@ We talked about The char and boolean Primitive Data Types (includes unicode)
 --slides
 
 We reviewed the Primitive Types in Java and learned String (that is not Primitive Types but class). We talkod about string and the features of string (immutable etc.)
+
+## Day5
+
+We talked about Operators, Operands, Expressions, and Abbreviationg operators.
+
+--slides
