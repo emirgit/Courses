@@ -46,3 +46,16 @@ We reviewed the Primitive Types in Java and learned String (that is not Primitiv
 We talked about Operators, Operands, Expressions, and Abbreviationg operators.
 
 --slides
+
+## Day6
+
+We downloaded Intellij Idea that is an IDE to make our job easier.
+--slides
+
+We created our First Class called as "Hello World" with traditional way.
+
+--slides
+
+It is explained the some keywords and Class
+
+--slides
