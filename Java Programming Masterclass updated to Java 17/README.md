@@ -53,9 +53,14 @@ We downloaded Intellij Idea that is an IDE to make our job easier.
 --slides
 
 We created our First Class called as "Hello World" with traditional way.
+--slides
+
+## Day7
+
+It is explained the conditional statements, and operators (logical, assignment, equals to, ternary)
 
 --slides
 
 It is explained the some keywords and Class
 
---slides
+We also did a challenge
