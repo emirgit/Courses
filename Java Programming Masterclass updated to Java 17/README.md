@@ -64,3 +64,6 @@ It is explained the conditional statements, and operators (logical, assignment, 
 It is explained the some keywords and Class
 
 We also did a challenge
+
+## Day8
+
