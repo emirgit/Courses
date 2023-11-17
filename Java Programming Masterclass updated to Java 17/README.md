@@ -67,3 +67,25 @@ We also did a challenge
 
 ## Day8
 
+After we started IntelliJ IDEA (IDE) with basic introduction, We contiuned with actual terms that are Keywords and Expressions, Statements, Code Blocks and If-else
+
+--slides
+
+Also we've made a basic challenge
+
+## Day9
+
+We've started to learns methods in Java. Method is the one of the most important terms in OOP. It is also explained the return types of the methods and the functionality of returning data from method.
+
+--slides
+
+Also, It is mentioned comparing the codes with other codes or previous version of code in condition executing problems
+
+--slides
+
+## Day10
+
+I've started the exercises and figured out
+
+--slides
+
