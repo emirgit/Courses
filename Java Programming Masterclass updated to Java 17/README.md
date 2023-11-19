@@ -91,3 +91,12 @@ I've started the exercises and figured out
 
 ## Day11
 
+I've learned "Method Overloading" in java by solving exercises and challanges. I've also finished chapter 5
+
+--slides
+
+## Day12
+
+I've started to learn Chapter 6 that is Control Flow. It was started with an introduction. It is said that We would learn switch-case,enchanced switch-case expression, for loop, while loop, and do-while loop. I've finished switch-cases part and for part by soluting the exercises. 
+
+--slides
