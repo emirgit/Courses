@@ -1,0 +1,2 @@
+Day10 = BarkingDog, DecimalComparator, EqualSumChecker, LeapYear, MegaBytesConverter, PositiveNegativeZero, SpeedConverter, TeenNumberChecker
+Day11 = 
