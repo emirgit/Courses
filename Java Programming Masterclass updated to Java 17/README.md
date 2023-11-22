@@ -100,3 +100,9 @@ I've learned "Method Overloading" in java by solving exercises and challanges. I
 I've started to learn Chapter 6 that is Control Flow. It was started with an introduction. It is said that We would learn switch-case,enchanced switch-case expression, for loop, while loop, and do-while loop. I've finished switch-cases part and for part by soluting the exercises. 
 
 --slides
+
+## Day13
+
+I've finished the Chapter 6 and started to learn Chapter 7
+
+--slides
