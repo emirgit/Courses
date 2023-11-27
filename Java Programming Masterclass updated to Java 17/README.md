@@ -103,6 +103,12 @@ I've started to learn Chapter 6 that is Control Flow. It was started with an int
 
 ## Day13
 
+I've finished while, do-while loop part by soluting some challanges and exercises
+
+--slides
+
+## Day14
+
 I've finished the Chapter 6 and started to learn Chapter 7
 
 --slides
