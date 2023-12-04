@@ -1,5 +1,5 @@
 public class DiagonalStar {
-    
+
     private static final String INVALID_VALUE = "Invalid Value";
 
     public static void printSquareStar(int number){
