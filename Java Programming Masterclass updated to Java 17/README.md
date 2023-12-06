@@ -119,3 +119,7 @@ I've learned basis of Object Oriented Programming which is one of the most impor
 ## Day15
 
 I've continued learning from where ı left off. I've seen constructor, static vs instance, and some basis of Inheritance. I also solved couple of exercises
+
+## Day16
+
+I'm contining to learn Chapter 7
