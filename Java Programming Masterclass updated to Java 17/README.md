@@ -123,3 +123,5 @@ I've continued learning from where ı left off. I've seen constructor, static vs
 ## Day16
 
 I'm contining to learn Chapter 7
+
+## Day 17
