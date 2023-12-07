@@ -109,19 +109,30 @@ I've finished while, do-while loop part by soluting some challanges and exercise
 
 ## Day14
 
-I've finished the Chapter 6 and started to learn Chapter 7.
-
---slides 
-I've learned basis of Object Oriented Programming which is one of the most important and must known thing in Java Programming Language.
+I've finished the Chapter 6.
 
 --slides
 
+
+
 ## Day15
 
-I've continued learning from where ı left off. I've seen constructor, static vs instance, and some basis of Inheritance. I also solved couple of exercises
+I've started the Chapter 7 that is the OOP Part1 - Inheritance
 
+
+--slides 
+I've learned basis of Object Oriented Programming which is one of the most important and must known thing in Java Programming Language. 
+(field, behaviour, package, private, public, ...)
+
+--slides
+
+I've learned getter, setter, and creating the objects
+
+--slides
 ## Day16
 
-I'm contining to learn Chapter 7
+I've continued learning from where I left off. I've seen constructor, static vs instance, and some basis of Inheritance. I also solved couple of exercises
 
 ## Day 17
+
+I've finished the Chapter 7
