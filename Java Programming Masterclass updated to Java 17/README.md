@@ -136,3 +136,5 @@ I've continued learning from where I left off. I've seen constructor, static vs 
 ## Day 17
 
 I've finished the Chapter 7
+
+## Day 18
