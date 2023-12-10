@@ -1,7 +1,7 @@
 public class Person {
 
     private String firstName;
-    private String secondName;
+    private String lastName;
     private int age;
 
     public String getFirstName() {
@@ -12,12 +12,12 @@ public class Person {
         this.firstName = firstName;
     }
 
-    public String getSecondName() {
-        return secondName;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setSecondName(String secondName) {
-        this.secondName = secondName;
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
     public int getAge() {
@@ -42,5 +42,24 @@ public class Person {
         }
     }
 
-    public String
+    public String getFullName(){
+        boolean isFirstEmpty = this.firstName.isEmpty();
+        boolean isSecondEmpty = this.lastName.isEmpty();
+
+
+        if (isSecondEmpty && isFirstEmpty){
+
+            return "";
+        }
+        else if (isSecondEmpty){
+
+            return this.firstName;
+        }
+        else if (isFirstEmpty) {
+
+            return this.lastName;
+        }
+
+        return this.firstName + " " + this.lastName;
+    }
 }
