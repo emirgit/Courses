@@ -131,10 +131,14 @@ I've learned getter, setter, and creating the objects
 --slides
 ## Day16
 
-I've continued learning from where I left off. I've seen constructor, static vs instance, and some basis of Inheritance. I also solved couple of exercises
+I've continued learning from where I left off. I've seen constructor, static vs instance, and some basis of Inheritance. I also solved couple of exercises.
 
-## Day 17
+--slides
+
+## Day17
 
 I've finished the Chapter 7
 
-## Day 18
+## Day18
+
+## Day19

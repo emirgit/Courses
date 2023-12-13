@@ -1,3 +1,5 @@
 Day10 = BarkingDog, DecimalComparator, EqualSumChecker, LeapYear, MegaBytesConverter, PositiveNegativeZero, SpeedConverter, TeenNumberChecker
 Day11 = AreaCalculator, IntEqualityPrinter, MinutesToYearsDaysCalculator
 Day12 = NumberInWord, NumberOfDaysInMonth
+Day15 = SimpleCalculator, Person
+Day16 = WallArea, Point, CarpetCostCalculator, ComplexOperations
