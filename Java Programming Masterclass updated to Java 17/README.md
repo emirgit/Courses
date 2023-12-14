@@ -137,8 +137,14 @@ I've continued learning from where I left off. I've seen constructor, static vs 
 
 ## Day17
 
-I've finished the Chapter 7
+I've finished the part1 of inheritance and I' ve started to learn String methods such as, manipulation, comparison, and looking up
+
+--slides
 
 ## Day18
 
+I've finished the Chapter 7 and I've started to learn Chapter 8 that is "OOP Part 2 - Polymorphism"
+
 ## Day19
+
+I'm contiuning to learn OOP Part 2 that is Chapter 8
