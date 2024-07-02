@@ -3,3 +3,4 @@
 Getting Started - Loading, Displaying, Saving and Dimensions of Images
 
 ## Day2
+Grayscaling Images
