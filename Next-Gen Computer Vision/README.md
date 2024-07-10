@@ -8,3 +8,7 @@
 ## Day3
 3. Color Spaces
 4. Drawing on Images
+
+## Day4
+5. Transformations - Translations and Rotations
+6. Scaling, Re-sizing, Interpolations and Cropping
