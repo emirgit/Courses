@@ -12,3 +12,4 @@
 ## Day4
 5. Transformations - Translations and Rotations
 6. Scaling, Re-sizing, Interpolations and Cropping
+7. Arithmetic and Bitwise Operations
