@@ -13,3 +13,7 @@
 5. Transformations - Translations and Rotations
 6. Scaling, Re-sizing, Interpolations and Cropping
 7. Arithmetic and Bitwise Operations
+
+## Day5
+8. Convolutions, Blurring and Sharpening Images
+9. Thresholding, Binarization _ Adaptive Thresholding
