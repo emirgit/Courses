@@ -17,3 +17,6 @@
 ## Day5
 8. Convolutions, Blurring and Sharpening Images
 9. Thresholding, Binarization _ Adaptive Thresholding
+
+## Day6
+10. Dilation, Erosion and Edge Detection
