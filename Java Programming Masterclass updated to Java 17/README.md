@@ -147,4 +147,4 @@ I've finished the Chapter 7 and I've started to learn Chapter 8 that is "OOP Par
 
 ## Day19
 
-I'm contiuning to learn OOP Part 2 that is Chapter 8
+I'm contiuning to learn OOP Part 2 that is Chapter 8 with Composition
